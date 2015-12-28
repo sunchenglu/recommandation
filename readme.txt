@@ -1,0 +1,3 @@
+python manage.py nonefuel_daily_stat
+python manage.py selling_and_Unsalable_items
+python manage.py nonefuel_area_rank_stat
