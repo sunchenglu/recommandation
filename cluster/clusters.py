@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from PIL import Image,ImageDraw
 
 def readfile(filename='datas/blogdata.txt'):
